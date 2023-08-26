@@ -15,7 +15,7 @@ The user may clone the repository from GitHub and will need to run "npm i" in th
 
 ## Usage
 The application can be seen here: 
-
+https://nameless-peak-72050-86cc972dbb1e.herokuapp.com/
 ![JATE 01](https://github.com/Bradford-Lee/Text-Editor/assets/127280322/62ad21a5-f9a1-45f3-8998-472ba38bfc7d)
 ![JATE 02](https://github.com/Bradford-Lee/Text-Editor/assets/127280322/904f9e94-147a-4fbf-835b-67cd296c3499)
 ![JATE 03](https://github.com/Bradford-Lee/Text-Editor/assets/127280322/c89fc075-2e15-43d8-9f85-f27e5a8936c8)
